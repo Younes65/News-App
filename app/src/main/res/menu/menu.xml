@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="United State"
+        android:orderInCategory="100"
+        android:id="@+id/us"/>
+    <item
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:title="Germany"
+        android:id="@+id/de"/>
+    <item
+        android:id="@+id/it"
+        android:title="Italy"/>
+    <item
+        android:id="@+id/eg"
+        android:title="Egypt"/>
+    <item
+        android:title="@string/hello_world"
+        android:icon="@drawable/world"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>

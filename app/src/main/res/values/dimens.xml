@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="et_size">24sp</dimen>
+    <dimen name="bttn_size">18sp</dimen>
+</resources>
